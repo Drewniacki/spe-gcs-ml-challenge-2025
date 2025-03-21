@@ -1,0 +1,85 @@
+predicting phase 2, well 1
+total number of models selected for prediction: 74
+that includes:
+
+- p1trn0: 2 models
+- p1trn1: 32 models
+- p1trn2: 0 models
+- p2trn0: 40 models
+- p2trn1: 0 models
+
+models selected for prediction:
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-20a45ad0
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-7b5d59f7
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-e69710af
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-5aebde40
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-a4c8d6fc
+Krzysiek_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-6b50f219
+Krzysiek_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-620b3150
+Krzysiek_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-3c9b6f7c
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-f9c5456e
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-3f3300fa
+Krzysiek_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-4ac326e0
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-f9158015
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-e2046e88
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-1bebf908
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-41d1c12e
+Krzysiek_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-41ac81d1
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-d0b6f85c
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-7dba6de1
+Krzysiek_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-42e6c5eb
+Krzysiek_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-222d2785
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-3c8e0a6f
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-12d950ed
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-36e630d7
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-4b0a2eef
+Krzysiek_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-12a1795a
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-34abe6a6
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-bb90ae9e
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-89a0762c
+Krzysiek_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-5e08ac85
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-2d3cdda5
+Krzysiek_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-8900d091
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-5dd5fb2b
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-dba8088f
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-a6099e70
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-55f5b449
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-33f4c464
+Krzysiek_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-7c1cbe50
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-bb6d36d5
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-7d3f91b8
+GRU_p1trnNone_p1tstNone_p2trn0_p2tst0-seq16-hid16-bch128-test16-ep200-39b5b676
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-6a3c1393
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-54b383f0
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-c35efbb6
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-60c4f30a
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-95f2d6d5
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-13a1aa16
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-4a1d4bba
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-5d588310
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-bc521515
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-57c682cc
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-59d116dc
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-44e4be68
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-e5b7e72f
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-e3fd0c9d
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-4f8d47d8
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-8e7c138a
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-0a84aa58
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-c4c8e70d
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-18a51a36
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-1434bc2d
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-c8586bd5
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-6e88dc7f
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-cbcf5acc
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-25cc4c7b
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-b5a6c7c2
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-e021705d
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-d078684e
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-b89669a9
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-c4318423
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-aacf5306
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-7d35930c
+Krzysiek_p1trn1_p1tst1_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-e7710a87
+Krzysiek_p1trn0_p1tst0_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-782aca1e
+Krzysiek_p1trn0_p1tst0_p2trnNone_p2tstNone-seq16-hid16-bch128-test16-ep200-70fac0a4
