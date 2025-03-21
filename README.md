@@ -43,7 +43,6 @@ Head to the [results folder](results) to see how our predictions compared to the
 
 
 ----------
-----------
 
 ## **Reproduction Steps**
 
